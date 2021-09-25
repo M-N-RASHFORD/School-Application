@@ -1,0 +1,38 @@
+body{
+  font-family: Century Gothic;
+  padding: 15px;
+  margin: 0;
+  box-sizing: border-box;
+  color: rgb(128, 0, 128);
+}
+input::placeholder{
+  font-family: Century Gothic;
+  color: rgb(128, 0, 128);
+}
+.input-1{
+  border: 0;
+  border-bottom: 1px solid rgb(128, 0, 128);
+  padding: 5px;
+  margin-right: 5px;
+  width: 20%;
+}
+input{
+  font-family: Century Gothic;
+  outline: 0;
+}
+.email-input{
+  border: 0;
+  padding: 5px;
+  margin: 5px;
+  border-bottom: 1px solid rgb(128, 0, 128);
+  width: 40%;
+}
+.button-input{
+  border: 1px solid #fff;
+  color: #fff;
+  background-color: rgb(128, 0, 128);
+  padding: 5px;
+  margin: 10px;
+  width: 20%;
+  height: 6vh;
+}
